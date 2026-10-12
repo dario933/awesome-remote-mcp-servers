@@ -1253,6 +1253,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
+- [PaidPilot Invoice Tools](https://paidpilot.io) `https://api.paidpilot.io/mcp`
+  [![PaidPilot Invoice Tools MCP connector](https://glama.ai/mcp/connectors/io.paidpilot.api/invoice-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.paidpilot.api/invoice-tools)
+  🔓 - Invoice PDFs, payment reminders, late-fee and payment-terms math, timesheet to invoice; paid per call in USDC via x402.
 - [pdata](https://pdata.world/agents) `https://api.pdata.world/mcp`
   [![pdata MCP connector](https://glama.ai/mcp/connectors/world.pdata/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/world.pdata/mcp)
   🔓 - Prices, 24h volume, movers and results for prediction markets on Polymarket, Kalshi and six more venues.
@@ -1917,6 +1920,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [is it DNS?](https://isitdns.net) `https://isitdns.net/mcp`
   [![is it DNS? MCP connector](https://glama.ai/mcp/connectors/net.isitdns/isitdns/badges/score.svg)](https://glama.ai/mcp/connectors/net.isitdns/isitdns)
   🔓 - Dig any public resolver, audit or sweep a domain, walk a delegation, read the live resolver board; no key.
+- [Is It Down API](https://isitdownapi.com) `https://api.isitdownapi.com/mcp`
+  [![Is It Down API MCP connector](https://glama.ai/mcp/connectors/com.isitdownapi.api/status/badges/score.svg)](https://glama.ai/mcp/connectors/com.isitdownapi.api/status)
+  🔓 - Check whether a vendor is down: status for 1,400+ SaaS and cloud vendors, or 25 at once; paid per call via x402.
 - [MCPulse](https://getmcpulse.com) `https://api.getmcpulse.com/mcp`
   [![MCPulse MCP connector](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse)
   🔐 - Query your own MCP server's tool calls, first-call success, retries, empty results, and schema cost.
@@ -1926,6 +1932,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NotWorking](https://notworking.io) `https://notworking.io/mcp`
   [![NotWorking MCP connector](https://glama.ai/mcp/connectors/io.notworking/notworking/badges/score.svg)](https://glama.ai/mcp/connectors/io.notworking/notworking)
   🔓 - Check if other agents report a site, skill or MCP server failing, see its other access paths, and report failures.
+- [PulseWatch Vendor Status](https://pulsewatch.us) `https://api.pulsewatch.us/mcp`
+  [![PulseWatch Vendor Status MCP connector](https://glama.ai/mcp/connectors/us.pulsewatch.api/status/badges/score.svg)](https://glama.ai/mcp/connectors/us.pulsewatch.api/status)
+  🔓 - Status and incidents for 1,700+ SaaS and cloud vendors; paid per call in USDC via x402.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
@@ -2469,6 +2478,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Domain Intelligence](https://oti-labs.com/mcp-server) `https://oti-labs.com/mcp`
   [![Domain Intelligence MCP connector](https://glama.ai/mcp/connectors/com.oti-labs/domain-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/com.oti-labs/domain-intelligence)
   🔓 - WHOIS/RDAP, DNS, SSL, live subdomains with IPs and SPF/DMARC/DKIM for any domain; 1,000 free lookups a month.
+- [Dragons Eye](https://ransomware-tracker.com) `https://api.ransomware-tracker.com/mcp`
+  [![Dragons Eye MCP connector](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye/badges/score.svg)](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye)
+  🔓 - Public ransomware leak-site claims by company or domain, plus recent claims and group profiles; paid per call via x402.
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
@@ -2490,6 +2502,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Orbylon](https://orbylon.com) `https://orbylon.com/api/mcp`
   [![Orbylon MCP connector](https://glama.ai/mcp/connectors/com.orbylon/readiness/badges/score.svg)](https://glama.ai/mcp/connectors/com.orbylon/readiness)
   🔓 - Checks whether AI agents can find, trust and pay a business, and looks up a verified domain key and prices.
+- [OrionCMD Checks](https://orioncmd.com) `https://api.orioncmd.com/mcp`
+  [![OrionCMD Checks MCP connector](https://glama.ai/mcp/connectors/com.orioncmd.api/checks/badges/score.svg)](https://glama.ai/mcp/connectors/com.orioncmd.api/checks)
+  🔓 - TLS certificate, DNS/email-auth and domain-expiry checks for any domain; paid per call in USDC via x402.
 - [PG1 Threat Intelligence](https://pg1-ai-agent.vercel.app/about) `https://pg1-ai-agent.vercel.app/api/mcp`
   [![PG1 Threat Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.Project-Gifted1/pg1-threat-intel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Project-Gifted1/pg1-threat-intel)
   🔓 - Agent threat intel: wallet sanctions screening, wallet and domain age, hostname reputation; paid STIX 2.1 feed via x402.
